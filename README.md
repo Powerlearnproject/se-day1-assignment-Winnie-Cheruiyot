@@ -116,10 +116,7 @@ Ensure that components work together: Integration testing verifies that differen
 Validate that the system meets requirements:System testing ensures that the software meets the overall requirements and objectives
 Confirm user acceptance:Acceptance testing ensures that the software meets the user's needs and is ready for release
 Improve software quality: By thoroughly testing the software, development teams can improve its reliability, performance, security, and usability.
-
-
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the practice of designing and refining input prompts to optimize responses from artificial intelligence (AI) models, such as large language models (LLMs) like GPT-4. It involves structuring queries, providing context, and using specific wording to guide AI in producing relevant, accurate, and coherent outputs.
